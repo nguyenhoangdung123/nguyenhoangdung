@@ -5,3 +5,4 @@ if txt.isalpha():
     print("nhap lai mat khau")
 else:
     print("nhap mat khau thanh cong")
+    break
