@@ -1,4 +1,4 @@
 a={
-    input(""):"Ngueyn Hoang Dung",input(""):15,input(""):"male"
+    (""):"Ngueyn Hoang Dung",(""):15,(""):"male"
 }
 print(a)
